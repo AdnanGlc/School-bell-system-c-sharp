@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\Skolsko_Zvono\Skolsko_Zvono\bin\Debug\Skolsko_Zvono.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Skolsko_Zvono\Skolsko_Zvono\obj\Debug\Skolsko_Zvono.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Skolsko_Zvono\Skolsko_Zvono\obj\Debug\Skolsko_Zvono.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Skolsko_Zvono\Skolsko_Zvono\obj\Debug\Skolsko_Zvono.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Skolsko_Zvono\Skolsko_Zvono\obj\Debug\Skolsko_Zvono.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Skolsko_Zvono\Skolsko_Zvono\bin\Debug\Skolsko_Zvono.exe
+c:\users\user\documents\visual studio 2013\Projects\Skolsko_Zvono\Skolsko_Zvono\bin\Debug\Skolsko_Zvono.pdb
+c:\users\user\documents\visual studio 2013\Projects\Skolsko_Zvono\Skolsko_Zvono\obj\Debug\Skolsko_Zvono.exe
+c:\users\user\documents\visual studio 2013\Projects\Skolsko_Zvono\Skolsko_Zvono\obj\Debug\Skolsko_Zvono.pdb
